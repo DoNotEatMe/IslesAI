@@ -1,5 +1,9 @@
 # IsleaAI
 
+> [!CAUTION]  
+> Using TSharedPtr in this case was a major mistake. Unfortunately, I didn’t have enough knowledge when I made this decision, but now I understand that it was a significant error.
+> So, I'm leaving the code as it is, and now you’re aware of the issue.
+
 ## Overview
 
 This project is a **Trading Fleet Simulator** where players manage a fleet of ships navigating between islands, trading goods at various ports. The game features an overhead view similar to strategy games and offers both manual and automated trading systems. 
